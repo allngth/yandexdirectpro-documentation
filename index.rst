@@ -1,12 +1,3 @@
-Всем привет!
+Документация по плагину Яндекс.Директ для Shop-script 7!
 ===========================================
 
-.. toctree::
-   :maxdepth: 2
-
-   example1
-   example2
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
