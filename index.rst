@@ -8,3 +8,4 @@
     setting/index
     interface/index
     patterns/index
+    bids/index
